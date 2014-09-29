@@ -1,6 +1,6 @@
-# Hobbit [![Build Status](http://img.shields.io/travis/patriciomacadden/hobbit.svg)](https://travis-ci.org/patriciomacadden/hobbit) [![Code Climate](http://img.shields.io/codeclimate/github/patriciomacadden/hobbit.svg)](https://codeclimate.com/github/patriciomacadden/hobbit) [![Code Climate Coverage](http://img.shields.io/codeclimate/coverage/github/patriciomacadden/hobbit.svg)](https://codeclimate.com/github/patriciomacadden/hobbit) [![Dependency Status](http://img.shields.io/gemnasium/patriciomacadden/hobbit.svg)](https://gemnasium.com/patriciomacadden/hobbit) [![Gem Version](http://img.shields.io/gem/v/hobbit.svg)](http://badge.fury.io/rb/hobbit)
-
 A minimalistic microframework built on top of [Rack](http://rack.github.io/).
+
+*THIS IS A FORKED PROJECT TO MAKE IT WORK OO RUBY 1.8.7*
 
 ## Installation
 

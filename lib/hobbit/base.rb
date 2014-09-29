@@ -32,7 +32,7 @@ module Hobbit
       private
 
       def compile_route(path, &block)
-        route = { block: block, compiled_path: nil, extra_params: [], path: path }
+        route = { :block => block, :compiled_path => nil, :extra_params => [], :path => path }
 
         compiled_path = path.gsub(/:\w+/) do |match|
           route[:extra_params] << match.gsub(':', '').to_sym
